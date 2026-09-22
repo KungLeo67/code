@@ -1,5 +1,0 @@
-print("balls")
-print("zake")
-print("hej")
-
-python hej.py
